@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 I am from Ecuador. <br>I am studying software engineering.<br>I like web development.<br>I like mystery movies and video games.
 
